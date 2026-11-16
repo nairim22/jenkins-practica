@@ -1,0 +1,7 @@
+
+PROYECTO DE PRACTICAS JENKINS
+
+Curso: Jenkins basico a avanzado
+Sistema operativo: Windows 10
+Repositorio: GitHub
+Objetivo: Integracion continua

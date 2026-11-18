@@ -1,4 +1,3 @@
-
 PROYECTO DE PRACTICAS JENKINS
 
 Curso: Jenkins basico a avanzado
@@ -7,3 +6,8 @@ Repositorio: GitHub
 Objetivo: Integracion continua
 
 esto es una prueba git-jenkins
+
+
+PROYECTO DE PRACTICAS JENKINS --- webhoooks
+
+Esto es un prueba para verificar el funcionamiento de webhooks con github-jenkis
